@@ -6,3 +6,6 @@ numpy
 SciencePlots
 scikit-learn
 xlrd==1.2.0
+torch==2.1.0 
+torchdata==0.7.0 
+torchaudio==2.1.0
