@@ -4,7 +4,7 @@ import statistics
 import os, torch
 import numpy as np
 
-plt.style.use(['ieee'])
+plt.style.use(['ggplot'])
 plt.rcParams["text.usetex"] = False
 plt.rcParams['figure.figsize'] = 6, 2
 
